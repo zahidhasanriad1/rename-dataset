@@ -12,9 +12,6 @@ This script safely renames paired image-label files for dataset splits (`train`,
 
 ---
 
-## 🧩 Folder Structure Example:
-rename-dataset/
-│
-├── rename_dataset.py
-├── README.md
-└── requirements.txt
+
+
+
